@@ -1,3 +1,5 @@
+LOCAL
+
 # mergeetconflits
 
 Quelques lignes
